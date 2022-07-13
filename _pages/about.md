@@ -37,7 +37,7 @@ My research interests are mainly about source-constrained medical image computin
 
 An Wang*, Mobarakol Islam*, Mengya Xu, and Hongliang Ren**
 
-[pdf](https://arxiv.org/abs/2206.11804) | [code](https://github.com/lofrienger/Single_SurgicalScene_For_Segmentation)
+[pdf](https://arxiv.org/abs/2206.11804) \| [code](https://github.com/lofrienger/Single_SurgicalScene_For_Segmentation)
 
 </div>
 </div>
