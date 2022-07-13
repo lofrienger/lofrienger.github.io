@@ -68,5 +68,5 @@ An Wang*, Mobarakol Islam*, Mengya Xu, Ben Glocker, and Hongliang Ren**
 -->
 
 # 💻 Teaching
-- *2022.01 - 2022.05*, Robotic Perception and Intelligence
-- *2021.09 - 2021.12*, Probability for Engineers
+- *2022.01 - 2022.05*, Robotic Perception and Intelligence, Teaching Assistant
+- *2021.09 - 2021.12*, Probability for Engineers, Teaching Assistant
