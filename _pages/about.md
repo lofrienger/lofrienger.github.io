@@ -42,7 +42,7 @@ An Wang*, Mobarakol Islam*, Mengya Xu, and Hongliang Ren**
 </div>
 </div>
 
-## Domain adaptation/generalization
+## Domain Adaptation/Generalization
 
 **Curriculum-Based Augmented Fourier Domain Adaption for Medical Image Segmentation**
 
