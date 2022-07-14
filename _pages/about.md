@@ -35,7 +35,7 @@ My research interests are mainly about source-constrained medical image computin
 
 **Rethinking Surgical Instrument Segmentation: A Background Image Can Be All You Need**
 
-An Wang*, Mobarakol Islam*, Mengya Xu, and Hongliang Ren**
+An Wang\*, Mobarakol Islam\*, Mengya Xu, and Hongliang Ren\*\*
 
 [pdf](https://arxiv.org/abs/2206.11804) \| [code](https://github.com/lofrienger/Single_SurgicalScene_For_Segmentation)
 
@@ -46,7 +46,7 @@ An Wang*, Mobarakol Islam*, Mengya Xu, and Hongliang Ren**
 
 **Curriculum-Based Augmented Fourier Domain Adaption for Medical Image Segmentation**
 
-An Wang*, Mobarakol Islam*, Mengya Xu, Ben Glocker, and Hongliang Ren**
+An Wang\*, Mobarakol Islam\*, Mengya Xu\*, Ben Glocker, and Hongliang Ren\*\*
 
 (IEEE TMI, 2nd round review)
 
