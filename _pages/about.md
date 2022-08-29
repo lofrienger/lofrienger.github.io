@@ -36,6 +36,8 @@ My research interests are mainly about source-constrained medical image computin
 **Rethinking Surgical Instrument Segmentation: A Background Image Can Be All You Need**
 
 An Wang\*, Mobarakol Islam\*, Mengya Xu, and Hongliang Ren\*\*
+  
+MICCAI-2022
 
 [pdf](https://arxiv.org/abs/2206.11804) \| [code](https://github.com/lofrienger/Single_SurgicalScene_For_Segmentation)
 
