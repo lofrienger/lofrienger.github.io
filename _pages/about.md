@@ -44,14 +44,14 @@ An Wang\*, Mobarakol Islam\*, Mengya Xu, and Hongliang Ren\*\*
 
 ## Domain Adaptation/Generalization
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMI</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE J-BHI</div><img src='images/curri-afda.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **Curriculum-Based Augmented Fourier Domain Adaption for Medical Image Segmentation**
 
-An Wang\*, Mobarakol Islam\*, Mengya Xu\*, Ben Glocker, and Hongliang Ren\*\*
+An Wang\*, Mobarakol Islam\*, Mengya Xu\*, and Hongliang Ren\*\*
 
-(IEEE TMI, 2nd round review)
+(IEEE J-BHI, under review)
 
 </div>
 </div>
