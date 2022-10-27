@@ -46,14 +46,14 @@ MICCAI-2022
 
 ## Domain Adaptation/Generalization
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE J-BHI</div><img src='images/curri-afda.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-ASE</div><img src='images/curri-afda.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**Curriculum-Based Augmented Fourier Domain Adaption for Medical Image Segmentation**
+**Curriculum-Based Augmented Fourier Domain Adaption for Robust Medical Image Segmentation**
 
 An Wang\*, Mobarakol Islam\*, Mengya Xu\*, and Hongliang Ren\*\*
 
-(IEEE J-BHI, under review)
+(IEEE T-ASE, under review)
 
 </div>
 </div>
