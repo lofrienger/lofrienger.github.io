@@ -23,10 +23,27 @@ My research interests are mainly about source-constrained medical image computin
 
 
 # 🔥 News
+- *2023.05*: One paper about annotation-efficient polyp segmentation is early accepted by MICCAI 2023.
 - *2022.06*: One paper about synthetic data generation from limited source is accepted by MICCAI 2022.
 
 # 📝 Publications 
 *: First author; **: Corresponding author
+
+## Anotation-efficient Learning
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2023</div><img src='images/miccai2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**S$^2$ME: Spatial-Spectral Mutual Teaching and Ensemble Learning for Scribble-supervised Polyp Segmentation**
+
+An Wang\*, Mengya Xu, Yang Zhang, Mobarakol Islam, and Hongliang Ren\*\*
+  
+MICCAI-2023 Early Accepted (Top 14% among 2235 submissions). 
+
+[arXiv](https://arxiv.org/abs/2306.00451) \| [code](https://github.com/lofrienger/S2ME)
+
+</div>
+</div>
 
 ## Synthetic Data Generation
 
@@ -39,7 +56,7 @@ An Wang\*, Mobarakol Islam\*, Mengya Xu, and Hongliang Ren\*\*
   
 MICCAI-2022
 
-[pdf](https://arxiv.org/abs/2206.11804) \| [code](https://github.com/lofrienger/Single_SurgicalScene_For_Segmentation)
+[arXiv](https://arxiv.org/abs/2206.11804), [Springer](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_34) \| [code](https://github.com/lofrienger/Single_SurgicalScene_For_Segmentation)
 
 </div>
 </div>
@@ -54,6 +71,8 @@ MICCAI-2022
 An Wang\*, Mobarakol Islam\*, Mengya Xu\*, and Hongliang Ren\*\*
 
 (IEEE T-ASE, under review)
+  
+[arXiv]() \| [code](https://github.com/lofrienger/Curri-AFDA)
 
 </div>
 </div>
@@ -76,5 +95,7 @@ An Wang\*, Mobarakol Islam\*, Mengya Xu\*, and Hongliang Ren\*\*
 -->
 
 # 💻 Teaching
+- *2023.01 - 2023.05*, Intelligent Wearable Electronics, Teaching Assistant
+- *2022.09 - 2022.12*, Probability for Engineers, Teaching Assistant
 - *2022.01 - 2022.05*, Robotic Perception and Intelligence, Teaching Assistant
 - *2021.09 - 2021.12*, Probability for Engineers, Teaching Assistant
