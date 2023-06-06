@@ -38,7 +38,7 @@ My research interests are mainly about source-constrained medical image computin
 
 An Wang\*, Mengya Xu, Yang Zhang, Mobarakol Islam, and Hongliang Ren\*\*
   
-MICCAI-2023 Early Accepted (Top 14% among 2235 submissions). 
+MICCAI-2023 Early Accepted (Top 14% among 2253 submissions). 
 
 [arXiv](https://arxiv.org/abs/2306.00451) \| [code](https://github.com/lofrienger/S2ME)
 
