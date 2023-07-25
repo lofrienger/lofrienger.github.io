@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a second year (2021-2025) Ph.D. student at [Medical Mechatronics Lab](http://www.labren.org/mm/) of the [Department of Electronic Engineering](http://www.ee.cuhk.edu.hk/en-gb/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/), supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang) and work with [Dr. Mobarakol Islam](https://mobarakol.github.io/). Previously, I was a Software Engineer at [Continental Automotive](https://www.continental-automotive.com/) in Singapore for two years. Before that, I worked with [Dr. Hao Wang](https://scholar.google.com.sg/citations?user=wwIAQ_4AAAAJ&hl) and [Prof. Chengkuo Lee](https://www.ece.nus.edu.sg/stfpage/elelc/bio.html) in the [Department of Electrical and Computer Engineering](https://cde.nus.edu.sg/ece/), [National University of Singapore](https://www.nus.edu.sg/) and received my M.Sc. degree in 2019. From 2014 to 2018, I studied in [Soochow University](https://www.suda.edu.cn/) and received B.Eng. degree in Information Engineering. 
 
-My research interests are mainly about source-constrained medical image computing and computer assisted intervention in a data-centric viewpoint. Topics that I am currently working on: synthetic data generation, domain adaptation and generalization, etc. 
+My research interests are mainly about resource-efficient medical image analysis and intelligent robotic surgery. Topics that I am currently working on: synthetic data generation, domain adaptation and generalization, etc. 
 
 
 # 🔥 News
@@ -58,7 +58,7 @@ An Wang\*, Mobarakol Islam\*, Mengya Xu, and Hongliang Ren\*\*
   
 IROS-2023
 
-[arXiv]() \| [code](https://github.com/lofrienger/OneToMany_ToolSynSeg)
+[arXiv](https://arxiv.org/abs/2306.16285) \| [code](https://github.com/lofrienger/OneToMany_ToolSynSeg)
 
 </div>
 </div>
@@ -72,7 +72,7 @@ An Wang\*, Mobarakol Islam\*, Mengya Xu, and Hongliang Ren\*\*
   
 MICCAI-2022
 
-[arXiv](https://arxiv.org/abs/2206.11804), [Springer](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_34                                                                                                                                                                                                                                                                                                                          ) \| [code](https://github.com/lofrienger/Single_SurgicalScene_For_Segmentation)
+[arXiv](https://arxiv.org/abs/2206.11804) \| [Springer](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_34) \| [code](https://github.com/lofrienger/Single_SurgicalScene_For_Segmentation)
 
 </div>
 </div>
@@ -85,8 +85,10 @@ MICCAI-2022
 **Curriculum-Based Augmented Fourier Domain Adaption for Robust Medical Image Segmentation**
 
 An Wang\*, Mobarakol Islam\*, Mengya Xu\*, and Hongliang Ren\*\*
-  
-[arXiv](https://arxiv.org/abs/2306.03511) \| [code](https://github.com/lofrienger/Curri-AFDA)
+
+IEEE Transactions on Automation Science and Engineering (T-ASE) 2023
+
+[arXiv](https://arxiv.org/abs/2306.03511) \| [IEEE](https://ieeexplore.ieee.org/document/10190316) \| [code](https://github.com/lofrienger/Curri-AFDA)
 
 </div>
 </div>
