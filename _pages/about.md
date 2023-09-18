@@ -34,7 +34,7 @@ My research interests are mainly about resource-efficient medical image analysis
 
 ## Foundation Model
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MedAGI Workshop - MICCAI 2023</div><img src='images/medagi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MedAGI Workshop</div><img src='images/medagi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SAM Meets Robotic Surgery: An Empirical Study on Generalization, Robustness and Adaptation**
