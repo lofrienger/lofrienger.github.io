@@ -48,7 +48,7 @@ Oral, MICCAI 2023 1st International Workshop on Foundation Models for General Me
 </div>
 </div>
 
-## Anotation-efficient Learning
+## Annotation-efficient Learning
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI-2023</div><img src='images/miccai2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
