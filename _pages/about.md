@@ -20,19 +20,29 @@ redirect_from:
 I am currently a 3rd year (2021-) Ph.D. student at [Medical Mechatronics Lab](http://www.labren.org/mm/) of the [Department of Electronic Engineering](http://www.ee.cuhk.edu.hk/en-gb/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/), supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang). I am honored to have 
 Previously, I was an Embedded Software Engineer at [Continental Automotive](https://www.continental-automotive.com/) in Singapore. Before that, I worked with [Prof. Chengkuo Lee](https://www.ece.nus.edu.sg/stfpage/elelc/bio.html) in the [Department of Electrical and Computer Engineering](https://cde.nus.edu.sg/ece/), [National University of Singapore](https://www.nus.edu.sg/) and received my M.Sc. degree in 2019. From 2014 to 2018, I studied at [Soochow University](https://www.suda.edu.cn/) and received B.Eng. degree in Information Engineering. 
 
-My research interests include resource-efficient medical image analysis and intelligent robotic surgery, specifically, synthetic data generation, domain adaptation/generalization, robustness, efficient adaptation of foundation models, etc. 
+My research interests include resource-efficient medical image analysis and intelligent robotic surgery, specifically, 
+- data/label-efficient learning;
+- domain adaptation/generalization, robustness;
+- efficient adaptation of foundation/large models;
+- etc. 
 
+I am always open to discussions and collaborations, so please don't hesitate to contact me via email if you have any inquiries or would like to explore potential collaborative opportunities.
+
+<!--
 I am honored to have the opportunity to collaborate with [Dr. Hao Wang](https://scholar.google.com.sg/citations?user=wwIAQ_4AAAAJ&hl), [Dr. Mobarakol Islam](https://mobarakol.github.io/) and [Prof. Yang Zhang](https://yangzhangcst.github.io/Homepage/).
+-->
 
 # 🔥 News
 - *2023.08*: Our paper "SAM Meets Robotic Surgery: An Empirical Study on Generalization, Robustness and Adaptation" has been accepted as an Oral Presentation at the MedAGI workshop, MICCAI 2023.
 - *2023.06*: Our paper "Generalizing Surgical Instruments Segmentation to Unseen Domains with One-to-Many Synthesis" is accepted by IROS-2023.
 - *2023.06*: One paper about robust medical image segmentation is accepted by IEEE Transactions on Automation Science and Engineering.
-- *2023.05*: One paper about annotation-efficient polyp segmentation is early accepted by MICCAI-2023.
+- *2023.05*: One paper about annotation-efficient polyp segmentation was early accepted by MICCAI-2023.
 - *2022.06*: One paper about synthetic data generation from limited sources is accepted by MICCAI-2022.
 
 # 📝 Publications 
 *: First author; **: Corresponding author
+
+[Full publications](https://scholar.google.com.hk/citations?user=NYWnE6QAAAAJ&hl).
 
 ## Foundation Model
 
