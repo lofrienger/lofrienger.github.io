@@ -24,7 +24,8 @@ My research interests include resource-efficient medical image analysis and inte
 - data/label-efficient learning;
 - domain adaptation/generalization, robustness;
 - efficient adaptation of foundation/large models;
-- etc. 
+- lightweight generative AI;
+- etc.
 
 I am always open to discussions and collaborations, so please don't hesitate to contact me via email if you have any inquiries or would like to explore potential collaborative opportunities.
 
