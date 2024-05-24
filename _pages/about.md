@@ -140,7 +140,8 @@ IEEE Transactions on Automation Science and Engineering (T-ASE) 2023
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
 
-# 💻 Teaching
-- Intelligent Wearable Electronics, Teaching Assistant; 2023.01 - 2023.05
-- Probability for Engineers, Teaching Assistant; 2021.09 - 2021.12, 2022.09 - 2022.12, 2023.09 - 2023.12
-- Robotic Perception and Intelligence, Teaching Assistant, 2022.01 - 2022.05
+# 💻 Teaching Assistant
+- Intelligent Interactive Robot Practice, 2024.01 - 2024.05
+- Intelligent Wearable Electronics, 2023.01 - 2023.05
+- Probability for Engineers, 2021.09 - 2021.12, 2022.09 - 2022.12, 2023.09 - 2023.12
+- Robotic Perception and Intelligence, 2022.01 - 2022.05
