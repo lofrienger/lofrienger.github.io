@@ -35,10 +35,10 @@ I am honored to have the opportunity to collaborate with [Dr. Hao Wang](https://
 - *2023.05*: One paper about annotation-efficient polyp segmentation was early accepted by MICCAI-2023.
 - *2022.06*: One paper about synthetic data generation from limited sources is accepted by MICCAI-2022.
 
-# 📝 Publications 
+# 📝 Publications
 *: First author; **: Corresponding author
 
-[Full publications](https://scholar.google.com.hk/citations?user=NYWnE6QAAAAJ&hl).
+[Full list](https://scholar.google.com.hk/citations?user=NYWnE6QAAAAJ&hl).
 
 ## Conference Papers
 
@@ -50,11 +50,15 @@ MICCAI 2024 Simulation and Synthesis in Medical Imaging (SASHIMI) Workshop
 
 [arxiv](https://arxiv.org/abs/2409.16063) \| [Springer](https://link.springer.com/chapter/10.1007/978-3-031-73281-2_5) \| [code](https://github.com/lofrienger/EndoDepthBenchmark)
 
+---
+
 **Endodac: Efficient adapting foundation model for self-supervised depth estimation from any endoscopic camera**
 
 Beilei Cui, Mobarakol Islam, Long Bai, An Wang, Hongliang Ren
 
 MICCAI 2024 [paper](https://link.springer.com/chapter/10.1007/978-3-031-72089-5_20) \| [code](https://github.com/BeileiCui/EndoDAC)
+
+---
 
 **A Review of 3D Reconstruction Techniques for Deformable Tissues in Robotic Surgery**
 
@@ -64,11 +68,15 @@ MICCAI 2024 Embodied AI and Robotics for HealTHcare (EARTH) Workshop
 
 [arxiv](https://arxiv.org/abs/2408.04426)
 
+---
+
 **Web-based Augmented Reality with Auto-Scaling and Real-Time Head Tracking towards Markerless Neurointerventional Preoperative Planning and Training of Head-mounted Robotic Needle Insertion**
 
 Hon Lung Ho\*, Yupeng Wang\*, An Wang\*, Long Bai, and Hongliang Ren\*\*
 
 IEEE ROBIO 2024
+
+---
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI-2023</div><img src='images/miccai2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
