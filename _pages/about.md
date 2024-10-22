@@ -17,16 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a 3rd year (2021-) Ph.D. student at [Medical Mechatronics Lab](http://www.labren.org/mm/) of the [Department of Electronic Engineering](http://www.ee.cuhk.edu.hk/en-gb/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/), supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang). I am honored to have 
-Previously, I was an Embedded Software Engineer at [Continental Automotive](https://www.continental-automotive.com/) in Singapore. Before that, I worked with [Prof. Chengkuo Lee](https://www.ece.nus.edu.sg/stfpage/elelc/bio.html) in the [Department of Electrical and Computer Engineering](https://cde.nus.edu.sg/ece/), [National University of Singapore](https://www.nus.edu.sg/) and received my M.Sc. degree in 2019. From 2014 to 2018, I studied at [Soochow University](https://www.suda.edu.cn/) and received B.Eng. degree in Information Engineering. 
+I am currently a 4th year (2021-) Ph.D. candidate at [Robotics, Embodied AI, and Navigation In-vivo Lab](http://www.labren.org/mm/), [Department of Electronic Engineering](http://www.ee.cuhk.edu.hk/en-gb/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/), supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang). Previously, I was an Embedded Software Engineer at [Continental Automotive](https://www.continental-automotive.com/) in Singapore. Before that, I worked with [Prof. Chengkuo Lee](https://www.ece.nus.edu.sg/stfpage/elelc/bio.html) in the [Department of Electrical and Computer Engineering](https://cde.nus.edu.sg/ece/), [National University of Singapore](https://www.nus.edu.sg/) and received my M.Sc. degree in 2019. From 2014 to 2018, I studied at [Soochow University](https://www.suda.edu.cn/) and received B.Eng. degree in Information Engineering. 
 
-My research interests include resource-efficient medical image analysis and intelligent robotic surgery, specifically, 
-- data/label-efficient learning;
-- domain adaptation/generalization, robustness;
-- efficient adaptation of foundation/large models;
-- lightweight generative AI;
-- etc.
-
+My research interests include **efficient** & **robust** medical image analysis and intelligent robotic surgery. I am recently interested in the visual/multi-modal foundation models. 
 I am always open to discussions and collaborations, so please don't hesitate to contact me via email if you have any inquiries or would like to explore potential collaborative opportunities.
 
 <!--
@@ -34,6 +27,8 @@ I am honored to have the opportunity to collaborate with [Dr. Hao Wang](https://
 -->
 
 # 🔥 News
+- *2024.10*: Two papers on vision-guided robotic surgery have been accepted at IEEE ROBIO 2024. 
+- *2024.08*: One paper "Benchmarking Robustness of Endoscopic Depth Estimation with Synthetically Corrupted Data" has been accepted at the Simulation and Synthesis in Medical Imaging (SASHIMI) workshop at MICCAI 2024.
 - *2023.08*: Our paper "SAM Meets Robotic Surgery: An Empirical Study on Generalization, Robustness and Adaptation" has been accepted as an Oral Presentation at the MedAGI workshop, MICCAI 2023.
 - *2023.06*: Our paper "Generalizing Surgical Instruments Segmentation to Unseen Domains with One-to-Many Synthesis" is accepted by IROS-2023.
 - *2023.06*: One paper about robust medical image segmentation is accepted by IEEE Transactions on Automation Science and Engineering.
@@ -45,23 +40,35 @@ I am honored to have the opportunity to collaborate with [Dr. Hao Wang](https://
 
 [Full publications](https://scholar.google.com.hk/citations?user=NYWnE6QAAAAJ&hl).
 
-## Foundation Model
+## Conference Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MedAGI Workshop</div><img src='images/medagi.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+**Benchmarking Robustness of Endoscopic Depth Estimation with Synthetically Corrupted Data**
 
-**SAM Meets Robotic Surgery: An Empirical Study on Generalization, Robustness and Adaptation**
+An Wang\*, Haochen Yin, Beilei Cui, Mengya Xu, and Hongliang Ren\*\*
 
-An Wang\*, Mobarakol Islam\*, Mengya Xu, Yang Zhang, and Hongliang Ren\*\*
-  
-Oral, MICCAI 2023 1st International Workshop on Foundation Models for General Medical AI. 
+MICCAI 2024 Simulation and Synthesis in Medical Imaging (SASHIMI) Workshop
 
-[arXiv](https://arxiv.org/abs/2308.07156)
+[arxiv](https://arxiv.org/abs/2409.16063) \| [Springer](https://link.springer.com/chapter/10.1007/978-3-031-73281-2_5) \| [code](https://github.com/lofrienger/EndoDepthBenchmark)
 
-</div>
-</div>
+**Endodac: Efficient adapting foundation model for self-supervised depth estimation from any endoscopic camera**
 
-## Annotation-efficient Learning
+Beilei Cui, Mobarakol Islam, Long Bai, An Wang, Hongliang Ren
+
+MICCAI 2024 [paper](https://link.springer.com/chapter/10.1007/978-3-031-72089-5_20) \| [code](https://github.com/BeileiCui/EndoDAC)
+
+**A Review of 3D Reconstruction Techniques for Deformable Tissues in Robotic Surgery**
+
+Mengya Xu, Ziqi Guo, An Wang, Long Bai, Hongliang Ren
+
+MICCAI 2024 Embodied AI and Robotics for HealTHcare (EARTH) Workshop
+
+[arxiv](https://arxiv.org/abs/2408.04426)
+
+**Web-based Augmented Reality with Auto-Scaling and Real-Time Head Tracking towards Markerless Neurointerventional Preoperative Planning and Training of Head-mounted Robotic Needle Insertion**
+
+Hon Lung Ho\*, Yupeng Wang\*, An Wang\*, Long Bai, and Hongliang Ren\*\*
+
+IEEE ROBIO 2024
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI-2023</div><img src='images/miccai2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -76,8 +83,6 @@ MICCAI-2023 Early Accepted (Top 14% among 2253 submissions).
 
 </div>
 </div>
-
-## Synthetic Data Generation and Learning
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS-2023</div><img src='images/iros2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -107,7 +112,22 @@ MICCAI-2022
 </div>
 </div>
 
-## Domain Adaptation/Generalization
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MedAGI Workshop</div><img src='images/medagi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SAM Meets Robotic Surgery: An Empirical Study on Generalization, Robustness and Adaptation**
+
+An Wang\*, Mobarakol Islam\*, Mengya Xu, Yang Zhang, and Hongliang Ren\*\*
+  
+Oral, MICCAI 2023 1st International Workshop on Foundation Models for General Medical AI. 
+
+[arXiv](https://arxiv.org/abs/2308.07156)
+
+</div>
+</div>
+
+
+## Journal Papers
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-ASE</div><img src='images/curri-afda.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -123,14 +143,37 @@ IEEE Transactions on Automation Science and Engineering (T-ASE) 2023
 </div>
 </div>
 
-<!--
+**Surgical-VQLA++: Adversarial contrastive learning for calibrated robust visual question-localized answering in robotic surgery**
+
+Long Bai, Guankun Wang, Mobarakol Islam, Lalithkumar Seenivasan, An Wang, Hongliang Ren
+
+Information Fusion, 2024 [paper](https://www.sciencedirect.com/science/article/pii/S1566253524003804) \| [code](https://github.com/longbai1006/Surgical-VQLAPlus)
+
+
+## Preprints
+
+**SAM 2 in Robotic Surgery: An Empirical Evaluation for Robustness and Generalization in Surgical Video Segmentation**
+
+Jieming Yu, An Wang, Wenzhen Dong, Mengya Xu, Mobarakol Islam, Jie Wang, Long Bai, Hongliang Ren
+
+[arxiv](https://arxiv.org/abs/2408.04593)
+
+## Book Chapter
+
+**3D Reconstruction of Deformable Tissues in Robotic Surgery**
+
+Mengya Xu, Tiebing Tang, Ziqi Guo, An Wang, Beilei Cui, Long Bai, Hongliang Ren
+
+[Handbook of Robotic Surgery](https://www.sciencedirect.com/science/article/pii/B9780443132711000571), 2024
+
+
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
--->
+- *2024.09*, SUSTech Fellowship
+- *2018.06*, Excellent Graduate of Soochow University
+
 
 # 📖 Educations
-- *2021.10 - now*, Ph.D., Electronic Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China
+- *2021.10 - now*, Ph.D. Candidate, Electronic Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China
 - *2018.08 - 2019.06*, M.Sc., Electrical Engineering, National University of Singapore, Singapore
 - *2014.09 - 2018.06*, B.Eng., Information Engineering, Soochow University, Suzhou, China
 
@@ -141,6 +184,7 @@ IEEE Transactions on Automation Science and Engineering (T-ASE) 2023
 -->
 
 # 💻 Teaching Assistant
+- Embedded Systems Design, 2024.09 - 2024.12
 - Intelligent Interactive Robot Practice, 2024.01 - 2024.05
 - Intelligent Wearable Electronics, 2023.01 - 2023.05
 - Probability for Engineers, 2021.09 - 2021.12, 2022.09 - 2022.12, 2023.09 - 2023.12
