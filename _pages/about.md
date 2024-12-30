@@ -76,6 +76,8 @@ Hon Lung Ho\*, Yupeng Wang\*, An Wang\*, Long Bai, and Hongliang Ren\*\*
 
 IEEE ROBIO 2024
 
+[arxiv](https://arxiv.org/abs/2411.02410) \| [website](https://wyp41.github.io/webxr/) \| [code](https://github.com/Hillllllllton/skullbot_web_ar) \| [demo](https://hillllllllton.github.io/fyp_AR/)
+
 ---
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI-2023</div><img src='images/miccai2023.png' alt="sym" width="100%"></div></div>
@@ -87,7 +89,7 @@ An Wang\*, Mengya Xu, Yang Zhang, Mobarakol Islam, and Hongliang Ren\*\*
   
 MICCAI-2023 Early Accepted (Top 14% among 2253 submissions). 
 
-[arXiv](https://arxiv.org/abs/2306.00451) \| [code](https://github.com/lofrienger/S2ME)
+[arXiv](https://arxiv.org/abs/2306.00451) \| [code](https://github.com/lofrienger/S2ME) \| [poster](https://drive.google.com/file/d/1vgqNK3Q1L7yWhPzLO0Mg2N21v6FCzUwF/view?usp=sharing) \| [video](https://drive.google.com/file/d/1coswqbqErDNZ2RWcFITbqdF1eTMSwj_Z/view?usp=sharing) \| [ppt](https://drive.google.com/file/d/1SReVhwta4P1MWU-R_1T3PVb4mECs76KF/view?usp=sharing)
 
 </div>
 </div>
@@ -101,7 +103,7 @@ An Wang\*, Mobarakol Islam\*, Mengya Xu, and Hongliang Ren\*\*
   
 IROS-2023
 
-[arXiv](https://arxiv.org/abs/2306.16285) \| [code](https://github.com/lofrienger/OneToMany_ToolSynSeg)
+[arXiv](https://arxiv.org/abs/2306.16285) \| [code](https://github.com/lofrienger/OneToMany_ToolSynSeg) \| [poster](https://drive.google.com/file/d/1sa4lG37_aVikBoxduQEuBpvaibr7dgMg/view?usp=sharing) \| [video](https://drive.google.com/file/d/1RxS6Eo_LQe-zxzNh1g8UdYa4HbTBKgR5/view?usp=sharing) \| [ppt](https://drive.google.com/file/d/1KsgfVg0dsiZJXWr3NtdwKk74cakWB02v/view?usp=sharing)
 
 </div>
 </div>
@@ -115,7 +117,7 @@ An Wang\*, Mobarakol Islam\*, Mengya Xu, and Hongliang Ren\*\*
   
 MICCAI-2022
 
-[arXiv](https://arxiv.org/abs/2206.11804) \| [Springer](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_34) \| [code](https://github.com/lofrienger/Single_SurgicalScene_For_Segmentation)
+[arXiv](https://arxiv.org/abs/2206.11804) \| [Springer](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_34) \| [code](https://github.com/lofrienger/Single_SurgicalScene_For_Segmentation) \| [ppt](https://drive.google.com/file/d/17ihJ-71i4q0JhyS9NXMumwF8zcv12MDQ/view?usp=sharing) \| [poster](https://drive.google.com/file/d/1QRT_dCqWHWtVmCNoOISBCd7PM6EpQ9gs/view?usp=sharing) \| [video](https://drive.google.com/file/d/1N-RjGmJg1BIGrbxtASwoULtFQ76ZPU2S/view?usp=sharing)
 
 </div>
 </div>
@@ -129,7 +131,7 @@ An Wang\*, Mobarakol Islam\*, Mengya Xu, Yang Zhang, and Hongliang Ren\*\*
   
 Oral, MICCAI 2023 1st International Workshop on Foundation Models for General Medical AI. 
 
-[arXiv](https://arxiv.org/abs/2308.07156)
+[arXiv](https://arxiv.org/abs/2308.07156) \| [poster](https://drive.google.com/file/d/1ZemCaFwFIJzV-_LXYf9uMZz9W8TE2bp3/view?usp=sharing) \| [ppt](https://drive.google.com/file/d/1kWFa162kgfvEGGvGUOsvKK7BY9eeN691/view?usp=sharing)
 
 </div>
 </div>
