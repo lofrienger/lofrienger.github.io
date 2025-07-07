@@ -122,7 +122,8 @@ Oral, MICCAI 2023 1st International Workshop on Foundation Models for General Me
 
 
 ## Journal Papers
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-ASE</div><img src='images/curri-afda.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMIG</div><img src='images/pedsemiseg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **PedSemiSeg: Pedagogy-inspired semi-supervised polyp segmentation**
@@ -133,8 +134,7 @@ Computerized Medical Imaging and Graphics (CMIG) 2025
 
 [Paper](https://doi.org/10.1016/j.compmedimag.2025.102591) \| [code](https://github.com/lofrienger/PedSemiSeg)
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMIG</div><img src='images/pedsemiseg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-ASE</div><img src='images/curri-afda.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **Curriculum-Based Augmented Fourier Domain Adaptation for Robust Medical Image Segmentation**
