@@ -134,6 +134,9 @@ Computerized Medical Imaging and Graphics (CMIG) 2025
 
 [Paper](https://doi.org/10.1016/j.compmedimag.2025.102591) \| [code](https://github.com/lofrienger/PedSemiSeg)
 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-ASE</div><img src='images/curri-afda.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
