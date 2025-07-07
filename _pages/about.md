@@ -19,14 +19,16 @@ redirect_from:
 
 I am currently a 4th year (2021-) Ph.D. candidate at [Robotics, Embodied AI, and Navigation In-vivo Lab](http://www.labren.org/mm/), [Department of Electronic Engineering](http://www.ee.cuhk.edu.hk/en-gb/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/), supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang). Previously, I was an Embedded Software Engineer at [Continental Automotive](https://www.continental-automotive.com/) in Singapore. Before that, I worked with [Prof. Chengkuo Lee](https://www.ece.nus.edu.sg/stfpage/elelc/bio.html) in the [Department of Electrical and Computer Engineering](https://cde.nus.edu.sg/ece/), [National University of Singapore](https://www.nus.edu.sg/) and received my M.Sc. degree in 2019. From 2014 to 2018, I studied at [Soochow University](https://www.suda.edu.cn/) and received B.Eng. degree in Information Engineering. 
 
-My research interests include **efficient** & **robust** medical image analysis and intelligent robotic surgery. I am recently interested in the visual/multi-modal foundation models. 
-I am always open to discussions and collaborations, so please don't hesitate to contact me via email if you have any inquiries or would like to explore potential collaborative opportunities.
+My research focuses on efficient & robust medical image analysis and intelligent robotic surgery. I am recently interested in Visual Foundation Models, Multi-modal LLM, and Embodied AI. 
+I am always open to discussions and collaborations, so please feel free to reach out to me via email if you have any questions or would like to explore potential collaborations.
 
 <!--
 I am honored to have the opportunity to collaborate with [Dr. Hao Wang](https://scholar.google.com.sg/citations?user=wwIAQ_4AAAAJ&hl), [Dr. Mobarakol Islam](https://mobarakol.github.io/) and [Prof. Yang Zhang](https://yangzhangcst.github.io/Homepage/).
 -->
 
 # 🔥 News
+- *2025.06*: One paper on semi-supervised polyp segmentation is accepted by Computerized Medical Imaging and Graphics (CMIG).
+- *2025.03*: Two papers on ESD Dissection Trajectory Prediction and Dissection Zone Segmentation are accepted at ICRA 2025 and IPCAI 2025, respectively. 
 - *2024.10*: Two papers on vision-guided robotic surgery have been accepted at IEEE ROBIO 2024. 
 - *2024.08*: One paper "Benchmarking Robustness of Endoscopic Depth Estimation with Synthetically Corrupted Data" has been accepted at the Simulation and Synthesis in Medical Imaging (SASHIMI) workshop at MICCAI 2024.
 - *2023.08*: Our paper "SAM Meets Robotic Surgery: An Empirical Study on Generalization, Robustness and Adaptation" has been accepted as an Oral Presentation at the MedAGI workshop, MICCAI 2023.
@@ -49,24 +51,6 @@ An Wang\*, Haochen Yin, Beilei Cui, Mengya Xu, and Hongliang Ren\*\*
 MICCAI 2024 Simulation and Synthesis in Medical Imaging (SASHIMI) Workshop
 
 [arxiv](https://arxiv.org/abs/2409.16063) \| [Springer](https://link.springer.com/chapter/10.1007/978-3-031-73281-2_5) \| [code](https://github.com/lofrienger/EndoDepthBenchmark)
-
----
-
-**Endodac: Efficient adapting foundation model for self-supervised depth estimation from any endoscopic camera**
-
-Beilei Cui, Mobarakol Islam, Long Bai, An Wang, Hongliang Ren
-
-MICCAI 2024 [paper](https://link.springer.com/chapter/10.1007/978-3-031-72089-5_20) \| [code](https://github.com/BeileiCui/EndoDAC)
-
----
-
-**A Review of 3D Reconstruction Techniques for Deformable Tissues in Robotic Surgery**
-
-Mengya Xu, Ziqi Guo, An Wang, Long Bai, Hongliang Ren
-
-MICCAI 2024 Embodied AI and Robotics for HealTHcare (EARTH) Workshop
-
-[arxiv](https://arxiv.org/abs/2408.04426)
 
 ---
 
@@ -138,11 +122,22 @@ Oral, MICCAI 2023 1st International Workshop on Foundation Models for General Me
 
 
 ## Journal Papers
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-ASE</div><img src='images/curri-afda.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**Curriculum-Based Augmented Fourier Domain Adaption for Robust Medical Image Segmentation**
+**PedSemiSeg: Pedagogy-inspired semi-supervised polyp segmentation**
+
+An Wang, Haoyu Ma, Long Bai, Yanan Wu, Mengya Xu, Yang Zhang, Mobarakol Islam, Hongliang Ren\*\*
+
+Computerized Medical Imaging and Graphics (CMIG) 2025
+
+[Paper](https://doi.org/10.1016/j.compmedimag.2025.102591) \| [code](https://github.com/lofrienger/PedSemiSeg)
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMIG</div><img src='images/pedsemiseg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**Curriculum-Based Augmented Fourier Domain Adaptation for Robust Medical Image Segmentation**
 
 An Wang\*, Mobarakol Islam\*, Mengya Xu\*, and Hongliang Ren\*\*
 
@@ -167,6 +162,24 @@ Information Fusion, 2024 [paper](https://www.sciencedirect.com/science/article/p
 Jieming Yu, An Wang, Wenzhen Dong, Mengya Xu, Mobarakol Islam, Jie Wang, Long Bai, Hongliang Ren
 
 [arxiv](https://arxiv.org/abs/2408.04593)
+
+**Endo-TTAP: Robust Endoscopic Tissue Tracking via Multi-Facet Guided Attention and Hybrid Flow-point Supervision**
+
+Rulin Zhou\*, Wenlong He\*, An Wang\*, Qiqi Yao, Haijun Hu, Jiankun Wang, Xi Zhang and Hongliang Ren\*\*
+
+[IEEE RAL](https://arxiv.org/abs/xxx) (In submission)
+
+**VL-SurgPT: Bridging Vision and Language for Robust Surgical Point Tracking**
+
+Rulin Zhou\*, Wenlong He\*, An Wang\*, Xuanhui Zeng, Jianhang Zhang, Xi Zhang, Chaowei Zhu, Haijun Hu\*\*, and Hongliang Ren\*\*
+
+[ACM MM Dataset](https://arxiv.org/abs/xxx) (Under Review)
+
+**EndoControlMag: Robust Endoscopic Vascular Motion Magnification with Periodic Reference Resetting and Hierarchical Tissue-aware Dual-Mask Control**
+
+An Wang\*, Rulin Zhou\*, Mengya Xu\*, Yiru Ye, Longfei Gou, Yiting Chang, Hao Chen, Chwee Ming Lim, Jiankun Wang, Hongliang Ren\*\*
+
+[Medical Image Analysis](https://arxiv.org/abs/xxx) (Under Review)
 
 ## Book Chapter
 
