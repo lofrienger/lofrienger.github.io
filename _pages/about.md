@@ -48,7 +48,7 @@ I am honored to have the opportunity to collaborate with [Dr. Hao Wang](https://
 
 ## Conference Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI-2026</div><img src='images/miccai2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI-2026</div><img src='images/AAAI-2026.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Bridging Vision and Language for Robust Context-Aware Surgical Point Tracking: The VL-SurgPT Dataset and Benchmark**
