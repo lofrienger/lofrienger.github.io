@@ -48,7 +48,7 @@ I am honored to have the opportunity to collaborate with [Dr. Hao Wang](https://
 
 ## Conference Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI-2023</div><img src='images/miccai2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI-2026</div><img src='images/miccai2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Bridging Vision and Language for Robust Context-Aware Surgical Point Tracking: The VL-SurgPT Dataset and Benchmark**
@@ -61,6 +61,14 @@ The Fortieth AAAI Conference on Artificial Intelligence (AAAI-26) (Oral)
 
 </div>
 </div>
+
+**SAM 2 in Robotic Surgery: An Empirical Evaluation for Robustness and Generalization in Surgical Video Segmentation**
+
+Jieming Yu, **An Wang**, Wenzhen Dong, Mengya Xu, Mobarakol Islam, Jie Wang, Long Bai, Hongliang Ren
+
+MICCAI 2025 Efficient Medical AI (EMA) Workshop
+
+[arxiv](https://arxiv.org/abs/2408.04593)
 
 ---
 
@@ -180,18 +188,21 @@ Information Fusion, 2024 [paper](https://www.sciencedirect.com/science/article/p
 
 ## Preprints
 
-**SAM 2 in Robotic Surgery: An Empirical Evaluation for Robustness and Generalization in Surgical Video Segmentation**
+**BleedOrigin: Dynamic Bleeding Source Localization in Endoscopic Submucosal Dissection via Dual-Stage Detection and Tracking**
 
-Jieming Yu, **An Wang**, Wenzhen Dong, Mengya Xu, Mobarakol Islam, Jie Wang, Long Bai, Hongliang Ren
+Mengya Xu\*, Rulin Zhou\*, **An Wang\***, Chaoyang Lyu, Zhen Li, Ning Zhong, Hongliang Ren
 
-[arxiv](https://arxiv.org/abs/2408.04593)
+[arxiv](https://arxiv.org/abs/2507.15094) \| [Project](https://szupc.github.io/ESD_BleedOrigin/)
+
+---
 
 **Endo-TTAP: Robust Endoscopic Tissue Tracking via Multi-Facet Guided Attention and Hybrid Flow-point Supervision**
 
-Rulin Zhou\*, Wenlong He\*, **An Wang\***, Qiqi Yao, Haijun Hu, Jiankun Wang, Xi Zhang and Hongliang Ren\*\*
+Rulin Zhou\*, Wenlong He\*, **An Wang\***, Qiqi Yao, Haijun Hu, Jiankun Wang, Xi Zhang, and Hongliang Ren\*\*
 
-[IEEE TMI](https://arxiv.org/abs/xxx) (Under review)
+[IEEE TMI](https://arxiv.org/abs/2503.22394) (Under review)
 
+---
 
 **EndoControlMag: Robust Endoscopic Vascular Motion Magnification with Periodic Reference Resetting and Hierarchical Tissue-aware Dual-Mask Control**
 
