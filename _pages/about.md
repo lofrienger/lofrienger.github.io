@@ -161,7 +161,7 @@ Oral, MICCAI 2023 1st International Workshop on Foundation Models for General Me
 
 Advanced Engineering Informatics (AdvEI) 2026
 
-[Paper](https://arxiv.org/abs/2507.15292v4)
+[Paper](https://arxiv.org/abs/2507.15292v4) \| [Project](https://cho-haz.github.io/EndoControlMag/)
 
 </div>
 </div>
