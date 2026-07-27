@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Ph.D. candidate at [Robotics, Embodied AI, and Navigation In-vivo Lab](http://www.labren.org/mm/), [Department of Electronic Engineering](http://www.ee.cuhk.edu.hk/en-gb/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/), supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang). Prior to my doctoral studies, I worked as an Embedded Software Engineer working in the automotive industry at [Continental Automotive](https://www.continental-automotive.com/) in Singapore. Before that, I conducted research in [Prof. Chengkuo Lee](https://www.ece.nus.edu.sg/stfpage/elelc/bio.html)'s lab at the [Department of Electrical and Computer Engineering](https://cde.nus.edu.sg/ece/), [National University of Singapore](https://www.nus.edu.sg/) and received my M.Sc. degree in 2019. I completed my undergraduate studies in Information Engineering at [Soochow University](https://www.suda.edu.cn/) from 2014 to 2018.
 
-My research focuses on efficient & robust medical image analysis and intelligent robotic surgery. I am recently working on Vision Foundation Models and Multi-modal LLM. 
+My research domain focuses on efficient & robust medical image analysis and intelligent robotic surgery. I am recently working on Vision Foundation Models, Multi-modal LLM, and World Models. 
 
 <!--
 I am always open to discussions and collaborations, so please feel free to reach out to me via email if you have any questions or would like to explore potential collaborations.
