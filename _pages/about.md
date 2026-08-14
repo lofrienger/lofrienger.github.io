@@ -30,15 +30,16 @@ I am honored to have the opportunity to collaborate with [Dr. Hao Wang](https://
 -->
 
 # 🔥 News
-- *2026.02*: One paper on Vascular Motion Magnification in endoscopic videos is accepted by Advanced Engineering Informatics (IF: 9.9).
+- *2026.08*: One paper on tissue point tracking in surgical videos is accepted by IEEE Transactions on Medical Imaging. (IF: 12.4).
+- *2026.02*: One paper on Vascular Motion Magnification in endoscopic videos is accepted by Advanced Engineering Informatics (IF: 11.5).
 - *2025.11*: One paper on multimodal (vision-language) surgical tissue&instrument point tracking is accepted at AAAI2026 (Oral).
-- *2025.06*: One paper on semi-supervised polyp segmentation is accepted by Computerized Medical Imaging and Graphics (CMIG, IF: 4.9).
+- *2025.06*: One paper on semi-supervised polyp segmentation is accepted by Computerized Medical Imaging and Graphics (CMIG, IF: 5.5).
 - *2025.03*: Two papers on ESD Dissection Trajectory Prediction and Dissection Zone Segmentation are accepted at ICRA 2025 and IPCAI 2025, respectively. 
 - *2024.10*: Two papers on vision-guided robotic surgery have been accepted at IEEE ROBIO 2024. 
 - *2024.08*: One paper "Benchmarking Robustness of Endoscopic Depth Estimation with Synthetically Corrupted Data" has been accepted at the Simulation and Synthesis in Medical Imaging (SASHIMI) workshop at MICCAI 2024.
 - *2023.08*: Our paper "SAM Meets Robotic Surgery: An Empirical Study on Generalization, Robustness and Adaptation" has been accepted as an Oral Presentation at the MedAGI workshop, MICCAI 2023.
 - *2023.06*: Our paper "Generalizing Surgical Instruments Segmentation to Unseen Domains with One-to-Many Synthesis" is accepted by IROS-2023.
-- *2023.06*: One paper about robust medical image segmentation is accepted by IEEE Transactions on Automation Science and Engineering (T-ASE, 6.4).
+- *2023.06*: One paper about robust medical image segmentation is accepted by IEEE Transactions on Automation Science and Engineering (T-ASE, 7.9).
 - *2023.05*: One paper about annotation-efficient polyp segmentation was early accepted by MICCAI-2023.
 - *2022.06*: One paper about synthetic data generation from limited sources is accepted by MICCAI-2022.
 
@@ -166,6 +167,14 @@ Advanced Engineering Informatics (AdvEI) 2026
 </div>
 </div>
 
+---
+
+**Endo-TTAP: Robust Endoscopic Tissue Tracking via Multi-Facet Guided Attention and Hybrid Flow-point Supervision**
+
+Rulin Zhou\*, Wenlong He\*, **An Wang\***, Qiqi Yao, Haijun Hu, Jiankun Wang, Xi Zhang, and Hongliang Ren\*\*
+
+IEEE Transactions on Medical Imaging [IEEE TMI](https://arxiv.org/abs/2503.22394) 2026
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMIG</div><img src='images/pedsemiseg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -208,14 +217,6 @@ Information Fusion, 2024 [paper](https://www.sciencedirect.com/science/article/p
 Mengya Xu\*, Rulin Zhou\*, **An Wang\***, Chaoyang Lyu, Zhen Li, Ning Zhong, Hongliang Ren
 
 [arxiv](https://arxiv.org/abs/2507.15094) \| [Project](https://szupc.github.io/ESD_BleedOrigin/)
-
----
-
-**Endo-TTAP: Robust Endoscopic Tissue Tracking via Multi-Facet Guided Attention and Hybrid Flow-point Supervision**
-
-Rulin Zhou\*, Wenlong He\*, **An Wang\***, Qiqi Yao, Haijun Hu, Jiankun Wang, Xi Zhang, and Hongliang Ren\*\*
-
-[IEEE TMI](https://arxiv.org/abs/2503.22394) (Under review)
 
 
 ## Book Chapter
