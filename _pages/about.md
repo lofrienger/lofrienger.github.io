@@ -19,7 +19,7 @@ redirect_from:
 
 I received my Ph.D. degree at [Robotics, Embodied AI, and Navigation In-vivo Lab](http://www.labren.org/mm/), [Department of Electronic Engineering](http://www.ee.cuhk.edu.hk/en-gb/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/), supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang). Prior to my doctoral studies, I worked as an Embedded Software Engineer working in the automotive industry at [Continental Automotive](https://www.continental-automotive.com/) in Singapore. Before that, I conducted research in [Prof. Chengkuo Lee](https://www.ece.nus.edu.sg/stfpage/elelc/bio.html)'s lab at the [Department of Electrical and Computer Engineering](https://cde.nus.edu.sg/ece/), [National University of Singapore](https://www.nus.edu.sg/) and received my M.Sc. degree in 2019. I completed my undergraduate studies in Information Engineering at [Soochow University](https://www.suda.edu.cn/) from 2014 to 2018.
 
-My research domain focuses on efficient & robust medical image analysis and intelligent robotic surgery. I am recently working on Vision Foundation Models, Multi-modal LLM, and World Models. 
+My research emphasizes efficient & robust medical image analysis and intelligent robotic surgery. I am recently working on Vision Foundation Models, Multi-modal LLM, and World Models. 
 
 <!--
 I am always open to discussions and collaborations, so please feel free to reach out to me via email if you have any questions or would like to explore potential collaborations.
@@ -60,7 +60,7 @@ Rulin Zhou\*, Wenlong He\*, **An Wang\***, Jianhang Zhang, Xuanhui Zeng, Xi Zhan
 
 The Fortieth AAAI Conference on Artificial Intelligence (AAAI-26) (Oral)
 
-[arxiv](https://arxiv.org/abs/2511.12026) \| [Project](https://szupc.github.io/VL-SurgPT/)
+[arxiv](https://arxiv.org/abs/2511.12026) \| [Project](https://lofrienger.github.io/renlab-project-homepages/VL-SurgPT-AAAI/)
 
 </div>
 </div>
@@ -163,7 +163,7 @@ Oral, MICCAI 2023 1st International Workshop on Foundation Models for General Me
 
 Advanced Engineering Informatics (AdvEI) 2026
 
-[Paper](https://arxiv.org/abs/2507.15292v4) \| [Project](https://cho-haz.github.io/EndoControlMag/)
+[Paper](https://arxiv.org/abs/2507.15292v4) \| [Project](https://lofrienger.github.io/renlab-project-homepages/EndoControlMag/)
 
 </div>
 </div>
@@ -174,7 +174,7 @@ Advanced Engineering Informatics (AdvEI) 2026
 
 Rulin Zhou\*, Wenlong He\*, **An Wang\***, Qiqi Yao, Haijun Hu, Jiankun Wang, Xi Zhang, and Hongliang Ren\*\*
 
-IEEE Transactions on Medical Imaging [IEEE TMI](https://arxiv.org/abs/2503.22394) 2026
+IEEE Transactions on Medical Imaging [IEEE TMI](https://arxiv.org/abs/2503.22394) 2026 \| [Project](https://lofrienger.github.io/renlab-project-homepages/Endo_TTAP/)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMIG</div><img src='images/pedsemiseg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -217,7 +217,7 @@ Information Fusion, 2024 [paper](https://www.sciencedirect.com/science/article/p
 
 Mengya Xu\*, Rulin Zhou\*, **An Wang\***, Chaoyang Lyu, Zhen Li, Ning Zhong, Hongliang Ren
 
-[arxiv](https://arxiv.org/abs/2507.15094) \| [Project](https://szupc.github.io/ESD_BleedOrigin/)
+[arxiv](https://arxiv.org/abs/2507.15094) \| [Project](https://lofrienger.github.io/renlab-project-homepages/ESD_BleedOrigin/)
 
 
 ## Book Chapter
@@ -235,7 +235,7 @@ Mengya Xu, Tiebing Tang, Ziqi Guo, **An Wang**, Beilei Cui, Long Bai, Hongliang 
 
 
 # 📖 Educations
-- *2021.10 - now*, Ph.D. Candidate, Electronic Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China
+- *2021.10 - 2026.08*, Ph.D. Candidate, Electronic Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China
 - *2018.08 - 2019.06*, M.Sc., Electrical Engineering, National University of Singapore, Singapore
 - *2014.09 - 2018.06*, B.Eng., Information Engineering, Soochow University, Suzhou, China
 
