@@ -30,6 +30,9 @@ I am honored to have the opportunity to collaborate with [Dr. Hao Wang](https://
 -->
 
 # 🔥 News
+
+<div class="news-scroll" role="region" aria-label="News; scroll to read earlier updates" tabindex="0" data-visible-items="7" markdown="1">
+
 - *2026.08*: Successfully passed my Ph.D. Thesis Defense and became a Dr. now!
 - *2026.08*: One paper on tissue point tracking in surgical videos is accepted by IEEE Transactions on Medical Imaging. (IF: 12.4).
 - *2026.02*: One paper on Vascular Motion Magnification in endoscopic videos is accepted by Advanced Engineering Informatics (IF: 11.5).
@@ -43,6 +46,9 @@ I am honored to have the opportunity to collaborate with [Dr. Hao Wang](https://
 - *2023.06*: One paper about robust medical image segmentation is accepted by IEEE Transactions on Automation Science and Engineering (T-ASE, 7.9).
 - *2023.05*: One paper about annotation-efficient polyp segmentation was early accepted by MICCAI-2023.
 - *2022.06*: One paper about synthetic data generation from limited sources is accepted by MICCAI-2022.
+
+</div>
+<p class="news-scroll-hint">Scroll for earlier updates.</p>
 
 # 📝 Publications
 *: First author; **: Corresponding author
@@ -65,6 +71,9 @@ The Fortieth AAAI Conference on Artificial Intelligence (AAAI-26) (Oral)
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI EMA-2025</div><img src='images/sam2-surgery.webp' alt="Qualitative surgical instrument segmentation results using SAM 2" width="100%" loading="lazy" decoding="async"></div></div>
+<div class='paper-box-text' markdown="1">
+
 **SAM 2 in Robotic Surgery: An Empirical Evaluation for Robustness and Generalization in Surgical Video Segmentation**
 
 Jieming Yu, **An Wang**, Wenzhen Dong, Mengya Xu, Mobarakol Islam, Jie Wang, Long Bai, Hongliang Ren
@@ -73,7 +82,11 @@ MICCAI 2025 Efficient Medical AI (EMA) Workshop
 
 [arxiv](https://arxiv.org/abs/2408.04593)
 
----
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI SASHIMI-2024</div><img src='images/endodepth-benchmark.webp' alt="Effect of image corruptions on endoscopic depth estimation" width="100%" loading="lazy" decoding="async"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **Benchmarking Robustness of Endoscopic Depth Estimation with Synthetically Corrupted Data**
 
@@ -83,7 +96,11 @@ MICCAI 2024 Simulation and Synthesis in Medical Imaging (SASHIMI) Workshop
 
 [arxiv](https://arxiv.org/abs/2409.16063) \| [Springer](https://link.springer.com/chapter/10.1007/978-3-031-73281-2_5) \| [code](https://github.com/lofrienger/EndoDepthBenchmark)
 
----
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO-2024</div><img src='images/web-ar-neurointervention.webp' alt="Overall mechanism of the web-based augmented reality application with auto-scaling and head tracking" width="100%" loading="lazy" decoding="async"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **Web-based Augmented Reality with Auto-Scaling and Real-Time Head Tracking towards Markerless Neurointerventional Preoperative Planning and Training of Head-mounted Robotic Needle Insertion**
 
@@ -93,7 +110,8 @@ IEEE ROBIO 2024
 
 [arxiv](https://arxiv.org/abs/2411.02410) \| [website](https://wyp41.github.io/webxr/) \| [code](https://github.com/Hillllllllton/skullbot_web_ar) \| [demo](https://hillllllllton.github.io/fyp_AR/)
 
----
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI-2023</div><img src='images/miccai2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -168,13 +186,17 @@ Advanced Engineering Informatics (AdvEI) 2026
 </div>
 </div>
 
----
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMI-2026</div><img src='images/endo-ttap.webp' alt="Endo-TTAP framework with hybrid supervision, multi-facet guided attention, and pseudo-label generation" width="100%" loading="lazy" decoding="async"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **Endo-TTAP: Robust Endoscopic Tissue Tracking via Multi-Facet Guided Attention and Hybrid Flow-point Supervision**
 
 Rulin Zhou\*, Wenlong He\*, **An Wang\***, Qiqi Yao, Haijun Hu, Jiankun Wang, Xi Zhang, and Hongliang Ren\*\*
 
 IEEE Transactions on Medical Imaging [IEEE TMI](https://arxiv.org/abs/2503.22394) 2026 \| [Project](https://lofrienger.github.io/renlab-project-homepages/Endo_TTAP/)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMIG</div><img src='images/pedsemiseg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -204,14 +226,22 @@ IEEE Transactions on Automation Science and Engineering (T-ASE) 2023
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion</div><img src='images/surgical-vqla-plus.webp' alt="Surgical-VQLA++ framework for calibrated vision-language fusion and adversarial contrastive learning" width="100%" loading="lazy" decoding="async"></div></div>
+<div class='paper-box-text' markdown="1">
+
 **Surgical-VQLA++: Adversarial contrastive learning for calibrated robust visual question-localized answering in robotic surgery**
 
 Long Bai, Guankun Wang, Mobarakol Islam, Lalithkumar Seenivasan, **An Wang**, Hongliang Ren
 
 Information Fusion, 2024 [paper](https://www.sciencedirect.com/science/article/pii/S1566253524003804) \| [code](https://github.com/longbai1006/Surgical-VQLAPlus)
 
+</div>
+</div>
 
 ## Preprints
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/bleedorigin.webp' alt="BleedOrigin dual-stage framework for bleeding onset detection and source tracking" width="100%" loading="lazy" decoding="async"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **BleedOrigin: Dynamic Bleeding Source Localization in Endoscopic Submucosal Dissection via Dual-Stage Detection and Tracking**
 
@@ -219,6 +249,8 @@ Mengya Xu\*, Rulin Zhou\*, **An Wang\***, Chaoyang Lyu, Zhen Li, Ning Zhong, Hon
 
 [arxiv](https://arxiv.org/abs/2507.15094) \| [Project](https://lofrienger.github.io/renlab-project-homepages/ESD_BleedOrigin/)
 
+</div>
+</div>
 
 ## Book Chapter
 

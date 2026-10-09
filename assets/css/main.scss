@@ -107,3 +107,59 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.news-scroll {
+    max-height: var(--news-visible-height, 24rem);
+    overflow-y: auto;
+    overscroll-behavior-y: contain;
+    scrollbar-gutter: stable;
+    scrollbar-width: thin;
+    scrollbar-color: $light-gray transparent;
+    padding: .25em 1em .25em .25em;
+    border-bottom: 1px solid $border-color;
+
+    ul {
+        margin: 0;
+        padding-left: 1.25em;
+    }
+
+    li {
+        margin: 0;
+    }
+
+    li + li {
+        margin-top: .55em;
+    }
+
+    &:focus-visible {
+        outline: 2px solid $link-color;
+        outline-offset: 3px;
+    }
+
+    &::-webkit-scrollbar {
+        width: 6px;
+    }
+
+    &::-webkit-scrollbar-thumb {
+        background: $light-gray;
+        border-radius: 3px;
+    }
+}
+
+.page__content .news-scroll-hint {
+    margin: .5em 0 0;
+    color: $gray;
+    font-size: .85em;
+}
+
+@media print {
+    .news-scroll {
+        max-height: none !important;
+        overflow: visible;
+        border: 0;
+    }
+
+    .news-scroll-hint {
+        display: none;
+    }
+}
