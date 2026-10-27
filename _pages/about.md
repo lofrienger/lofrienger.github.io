@@ -259,6 +259,34 @@ Information Fusion, 2024 [paper](https://www.sciencedirect.com/science/article/p
 
 ## Preprints
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/dao-jing.webp' alt="DAO and JING overview: shared world state and interactive first-person audiovisual generation" width="100%" loading="lazy" decoding="async"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Generative World Simulation with DAO and JING**
+
+XGEN Team: Guohao Cai, Haoxuan Che, Frank Fan, Chenran Huang, Junjia Huang, Jiayi Jiang, Yanheng Li, Leon Liu, Shaoteng Liu, Xi Liu, Feng Nie, Zhefan Rao, **An Wang**, Hanwen Wang, Pengxiang Yan, Jieming Yu, Qian Zha, Wentao Zheng
+
+Technical Report, 2026
+
+[arXiv](https://arxiv.org/abs/2610.19726) \| [PDF](https://arxiv.org/pdf/2610.19726) \| [Project](https://xgenlabs.ai/research/generative-world-simulation)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/surgmotion.webp' alt="SurgMotion overview showing the surgical video dataset, video-native pretraining, and downstream tasks" width="100%" loading="lazy" decoding="async"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SurgMotion: A Video-Native Foundation Model for Universal Understanding of Surgical Videos**
+
+Jinlin Wu, Felix Holm, Chuxi Chen, **An Wang**, Yaxin Hu, Xiaofan Ye, Zelin Zang, Miao Xu, Lihua Zhou, Huarui Wu, Huai Liao, Danny T. M. Chan, Ming Feng, Wai S. Poon, Hongliang Ren, Dong Yi, Nassir Navab, Gaofeng Meng, Jiebo Luo, Hongbin Liu, Zhen Lei
+
+Preprint, 2026
+
+[arXiv](https://arxiv.org/abs/2602.05638) \| [PDF](https://arxiv.org/pdf/2602.05638) \| [Project](https://surgmotion.cares-copilot.com)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/bleedorigin.webp' alt="BleedOrigin dual-stage framework for bleeding onset detection and source tracking" width="100%" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
