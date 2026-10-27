@@ -259,12 +259,24 @@ Information Fusion, 2024 [paper](https://www.sciencedirect.com/science/article/p
 
 ## Preprints
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Project</div><img src='images/dual-exam.webp' alt="Dual Exam framework showing four evaluation domains and controlled evaluation of multimodal agents and world models" width="100%" loading="lazy" decoding="async"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Dual Exam: Controlled Evaluation of Multimodal Agents and World Models**
+
+XGEN Team
+
+[Project](https://xgenlabs.ai/research/dual-exam/)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/dao-jing.webp' alt="DAO and JING overview: shared world state and interactive first-person audiovisual generation" width="100%" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Generative World Simulation with DAO and JING**
 
-XGEN Team: Guohao Cai, Haoxuan Che, Frank Fan, Chenran Huang, Junjia Huang, Jiayi Jiang, Yanheng Li, Leon Liu, Shaoteng Liu, Xi Liu, Feng Nie, Zhefan Rao, **An Wang**, Hanwen Wang, Pengxiang Yan, Jieming Yu, Qian Zha, Wentao Zheng
+XGEN Team
 
 Technical Report, 2026
 
