@@ -61,6 +61,8 @@ Contributed to:
 - [Dual Exam: Controlled Evaluation of Multimodal Agents and World Models](https://xgenlabs.ai/research/dual-exam/)
 - [Generative World Simulation with DAO and JING](https://arxiv.org/abs/2610.19726)
 
+---
+
 ## [Centre for Artificial Intelligence and Robotics (CAIR)](https://www.cair-cas.org.hk/)
 
 Hong Kong Institute of Science & Innovation, Chinese Academy of Sciences
