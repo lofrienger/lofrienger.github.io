@@ -50,6 +50,25 @@ I am honored to have the opportunity to collaborate with [Dr. Hao Wang](https://
 </div>
 <p class="news-scroll-hint">Scroll for earlier updates.</p>
 
+# 💼 Internship Experience
+
+## [XGEN Labs](https://xgenlabs.ai/)
+
+**World Model Algorithm Intern** · *May 2026 - Nov 2026*
+
+Contributed to:
+
+- [Dual Exam: Controlled Evaluation of Multimodal Agents and World Models](https://xgenlabs.ai/research/dual-exam/)
+- [Generative World Simulation with DAO and JING](https://arxiv.org/abs/2610.19726)
+
+## [Centre for Artificial Intelligence and Robotics (CAIR)](https://www.cair-cas.org.hk/)
+
+Hong Kong Institute of Science & Innovation, Chinese Academy of Sciences
+
+**Foundation Model Algorithm Intern** · *Nov 2025 - Feb 2026*
+
+Research output: [SurgMotion: A Video-Native Foundation Model for Universal Understanding of Surgical Videos](https://arxiv.org/abs/2602.05638).
+
 # 📝 Publications
 *: First author; **: Corresponding author
 
