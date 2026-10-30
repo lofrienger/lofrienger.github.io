@@ -261,14 +261,16 @@ Information Fusion, 2024 [paper](https://www.sciencedirect.com/science/article/p
 
 ## Preprints
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Project</div><img src='images/dual-exam.webp' alt="Dual Exam framework showing four evaluation domains and controlled evaluation of multimodal agents and world models" width="100%" loading="lazy" decoding="async"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/dual-exam.webp' alt="Dual Exam framework showing four evaluation domains and controlled evaluation of multimodal agents and world models" width="100%" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Dual Exam: Controlled Evaluation of Multimodal Agents and World Models**
 
 XGEN Team
 
-[Project](https://xgenlabs.ai/research/dual-exam/)
+ICLR 2027 — Under Review
+
+[arXiv](https://arxiv.org/abs/2610.31066) \| [PDF](https://arxiv.org/pdf/2610.31066) \| [Project](https://xgenlabs.ai/research/dual-exam/)
 
 </div>
 </div>
