@@ -10,7 +10,7 @@
 - `images/`：头像、论文配图和旧图片。配图来源可记在 `images/PUBLICATION_FIGURES.md`。
 - `.nojekyll`：让 GitHub Pages 直接发布静态文件。
 
-仓库仍保留旧主题文件和图片，避免断掉旧资源链接。新版不读取 `_pages/about.md` 或 `_config.yml`；更新内容时只改 `index.html`。旧地址 `/about/` 和 `/about.html` 会转到主页，原来常用的栏目锚点也保留了兼容入口。
+旧 Jekyll 主题源码和 Ruby 构建文件已移除，可在 Git 历史中找回。原有图片和公开的 CSS、JavaScript、字体资源仍保留；更新内容时只改 `index.html`。旧地址 `/about/` 和 `/about.html` 会转到主页，原来常用的栏目锚点也保留了兼容入口。
 
 ## 添加 News
 
