@@ -1,18 +1,18 @@
 :root {
   color-scheme: light;
-  --bg:#fcfcfa; --panel:#fff; --ink:#202722; --body:#39443e; --muted:#54635a;
-  --rule:#dce3dd; --accent:#195d52; --soft:#edf4ef; --fig:#f4f6f3; --bar:#fcfcfaf5;
+  --bg:#f3f6fb; --panel:#f9fbff; --ink:#1c2635; --body:#364358; --muted:#526077;
+  --rule:#d6deeb; --accent:#1757a6; --accent-hover:#103d77; --soft:#e8effa; --fig:#f4f6fa; --bar:#f3f6fbf5;
   font-family: "Segoe UI", system-ui, sans-serif;
 }
 :root[data-theme="dark"] {
   color-scheme: dark;
-  --bg:#141a17; --panel:#1c2520; --ink:#edf4ee; --body:#d2ded5; --muted:#aebfb4;
-  --rule:#36453c; --accent:#97ddcb; --soft:#243b33; --fig:#f4f6f3; --bar:#141a17f5;
+  --bg:#141a24; --panel:#1c2534; --ink:#edf3fc; --body:#d4dfef; --muted:#adbed7;
+  --rule:#344257; --accent:#92c2ff; --accent-hover:#bddaff; --soft:#24364f; --fig:#f4f6fa; --bar:#141a24f5;
 }
 *, *::before, *::after {box-sizing:border-box}
 body {margin:0;background:var(--bg);color:var(--body);font-size:15px;line-height:1.72;overflow-wrap:anywhere}
 a {color:var(--accent);text-decoration:none}
-a:hover {color:var(--ink)}
+a:hover {color:var(--accent-hover)}
 button {font:inherit;cursor:pointer}
 :focus-visible {outline:2px solid var(--accent);outline-offset:4px}
 .skip {position:absolute;left:16px;top:-100px;background:var(--panel);padding:.5rem;z-index:4}
@@ -22,8 +22,7 @@ button {font:inherit;cursor:pointer}
 .bar {display:flex;align-items:center;gap:25px;min-height:60px}
 .bar a {text-decoration:none}
 nav {display:flex;gap:22px;margin-right:auto}
-nav a {color:var(--muted);font-size:14px}
-nav a:hover {color:var(--accent)}
+nav a {font-size:14px}
 .theme,.filters button {color:var(--body);background:var(--panel);border:1px solid var(--rule);border-radius:7px;padding:4px 11px;font-size:13px}
 .theme[aria-pressed=true], .filters button[aria-pressed=true] {color:var(--accent);background:var(--soft);border-color:var(--accent)}
 .hero {display:grid;grid-template-columns:minmax(0,1fr) 176px;gap:35px;align-items:center;padding:57px 0 34px;scroll-margin-top:70px}
