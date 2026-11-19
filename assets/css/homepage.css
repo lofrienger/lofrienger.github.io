@@ -1,7 +1,7 @@
 :root {
   color-scheme: light;
-  --bg:#f3f6fb; --panel:#f9fbff; --ink:#1c2635; --body:#364358; --muted:#526077;
-  --rule:#d6deeb; --accent:#1757a6; --accent-hover:#103d77; --soft:#e8effa; --fig:#f4f6fa; --bar:#f3f6fbf5;
+  --bg:#fff; --panel:#fff; --ink:#1c2635; --body:#364358; --muted:#526077;
+  --rule:#d6deeb; --accent:#1757a6; --accent-hover:#103d77; --soft:#e8effa; --fig:#f4f6fa; --bar:#fff;
   font-family: "Segoe UI", system-ui, sans-serif;
 }
 :root[data-theme="dark"] {
