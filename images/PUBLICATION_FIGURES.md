@@ -8,6 +8,7 @@ content and aspect ratios are preserved.
 
 | Thumbnail | Source | Figure |
 | --- | --- | --- |
+| `kinestate-swam.webp` | [KineState-SWAM, arXiv v1](https://arxiv.org/html/2611.28871v1) | Figure 1: comparison of world-modeling paradigms and KineState-SWAM, `overview.png` |
 | `dual-exam.webp` | [Dual Exam, XGEN Labs](https://xgenlabs.ai/research/dual-exam/) | Official framework overview, `https://resources.xgenlabs.ai/research/dual-exam/images/01_framework.png` |
 | `dao-jing.webp` | [DAO and JING, arXiv v1](https://arxiv.org/html/2610.19726v1) | Figure 1: generative world simulation overview, `xgen-system-overview-v6.png` |
 | `surgmotion.webp` | [SurgMotion, arXiv v5](https://arxiv.org/html/2602.05638v5) | Figure 1: dataset, pretraining, and downstream task overview, `UniSurg-teaser.png` (CC BY 4.0) |
